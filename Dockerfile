@@ -1,1 +1,1 @@
-FROM ghcr.io/renovatebot/renovate:37.50.0
+FROM ghcr.io/containerbase/base:9.23.14
